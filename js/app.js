@@ -1,3 +1,4 @@
+
 /*
  * 创建一个包含所有卡片的数组
  */
@@ -154,3 +155,4 @@ function leval(tota) {
 		}
 	}
 }
+// this is a little game!
